@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">商米扫码抢读图Demo</string>
+    <string name="text_init">存储异常恢复Demo</string>
+    <string name="text_total">汇总信息:</string>
+    <string name="text_summary">明细信息:</string>
+    <string name="text_clear">清除完毕</string>
+    <string name="btn_total">查询汇总</string>
+    <string name="btn_summary">查询明细</string>
+    <string name="btn_clear">清除数据</string>
+    <string name="btn_create">创建文件</string>
+</resources>
